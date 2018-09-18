@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UIBasicsDemo</string>
+    <string name="text_hello">Hello World!</string>
+</resources>
