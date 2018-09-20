@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+    <string name="btn_delete">Delete</string>
+    <string name="error_empty">This field can not be empty</string>
+</resources>
