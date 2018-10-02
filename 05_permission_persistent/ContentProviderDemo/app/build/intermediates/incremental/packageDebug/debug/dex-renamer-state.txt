@@ -1,0 +1,4 @@
+#Tue Apr 24 10:44:13 CEST 2018
+base.0=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\ContentProviderDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\ContentProviderDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
