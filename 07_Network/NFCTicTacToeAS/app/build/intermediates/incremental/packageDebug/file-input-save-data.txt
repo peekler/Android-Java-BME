@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue May 02 11:20:47 CEST 2017
+2.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\logo.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\Development\\VC\\Android-BME\\10_Multimedia_Extras\\NFCTicTacToeAS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.set=ANDROID_RESOURCE

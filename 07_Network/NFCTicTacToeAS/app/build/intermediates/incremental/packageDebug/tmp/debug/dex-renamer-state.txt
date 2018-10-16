@@ -1,0 +1,4 @@
+#Tue Oct 16 14:49:43 CEST 2018
+base.0=D\:\\Development\\VC\\Android-Java-BME\\07_Network\\NFCTicTacToeAS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

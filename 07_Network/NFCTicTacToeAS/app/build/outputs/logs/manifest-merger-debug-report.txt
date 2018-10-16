@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\686bc70be32d603d72d1aea44be2de97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ababbef66ab54b6eb37790772b5d2558\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4f0a12bcc9af4cd50a1f770b42acf995\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a79ddd418bb61db277b313905c9ce3dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\238d3561902f389ba71d607547d28e0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e2b18a1f52434d6c9ddc95bf305c2129\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\96d251ba475da277c26ee72f9f30b0fc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\310f87b53964e47b40595540215f8f24\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\603954e54d0831ab73b8d67e6cee4412\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8a740ebbdbaede4fc782cba35263aab3\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.nfc
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:7:5-81
+	android:required
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:7:55-78
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:7:19-54
+uses-permission#android.permission.NFC
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:9:5-62
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:9:22-59
+application
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:11:5-35:19
+	android:label
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:15:9-40
+activity#hu.bme.aut.amorg.examples.nfctest.MainActivity
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:16:9-33:20
+	android:screenOrientation
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:17:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:23:27-74
+intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT+data:host:ext+data:pathPrefix:/com.example:externalType+data:scheme:vnd.android.nfc
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:25:13-32:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:26:25-74
+category#android.intent.category.DEFAULT
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:27:27-73
+data
+ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:28:17-31:56
+	android:host
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:29:21-39
+	android:scheme
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:31:21-53
+	android:pathPrefix
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml:30:21-67
+uses-sdk
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\686bc70be32d603d72d1aea44be2de97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\686bc70be32d603d72d1aea44be2de97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ababbef66ab54b6eb37790772b5d2558\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ababbef66ab54b6eb37790772b5d2558\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4f0a12bcc9af4cd50a1f770b42acf995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4f0a12bcc9af4cd50a1f770b42acf995\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a79ddd418bb61db277b313905c9ce3dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a79ddd418bb61db277b313905c9ce3dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\238d3561902f389ba71d607547d28e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\238d3561902f389ba71d607547d28e0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e2b18a1f52434d6c9ddc95bf305c2129\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e2b18a1f52434d6c9ddc95bf305c2129\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\96d251ba475da277c26ee72f9f30b0fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\96d251ba475da277c26ee72f9f30b0fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\310f87b53964e47b40595540215f8f24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\310f87b53964e47b40595540215f8f24\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\603954e54d0831ab73b8d67e6cee4412\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\603954e54d0831ab73b8d67e6cee4412\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8a740ebbdbaede4fc782cba35263aab3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Peter\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8a740ebbdbaede4fc782cba35263aab3\AndroidManifest.xml:20:5-44
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		ADDED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Development\VC\Android-Java-BME\07_Network\NFCTicTacToeAS\app\src\main\AndroidManifest.xml
